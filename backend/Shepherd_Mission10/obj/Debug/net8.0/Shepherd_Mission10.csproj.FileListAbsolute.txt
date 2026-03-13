@@ -265,3 +265,4 @@
 /Users/marycatherineshepherd/RiderProjects/Shepherd_Mission10/backend/Shepherd_Mission10/obj/Debug/net8.0/Shepherd_Mission10.pdb
 /Users/marycatherineshepherd/RiderProjects/Shepherd_Mission10/backend/Shepherd_Mission10/obj/Debug/net8.0/Shepherd_Mission10.genruntimeconfig.cache
 /Users/marycatherineshepherd/RiderProjects/Shepherd_Mission10/backend/Shepherd_Mission10/obj/Debug/net8.0/ref/Shepherd_Mission10.dll
+/Users/marycatherineshepherd/RiderProjects/Shepherd_Mission10/backend/Shepherd_Mission10/obj/Debug/net8.0/Shepherd_Mission10.sourcelink.json
